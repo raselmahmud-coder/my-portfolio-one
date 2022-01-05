@@ -65,8 +65,7 @@ img {
   border-bottom: 1px solid #aaa;
   position: relative;
 }
-.main_menu > ul > li > ul li a {
-}
+
 .main_menu > ul > li:hover > ul {
   visibility: visible;
   opacity: 1;
@@ -94,10 +93,10 @@ img {
   visibility: visible;
   opacity: 1;
 }
-.main_menu > ul > li > ul > li > ul li {
+/* .main_menu > ul > li > ul > li > ul li {
 }
 .main_menu > ul > li > ul > li > ul li a {
-}
+} */
 
 /*
 	Our Features SECTION css
@@ -107,8 +106,6 @@ img {
   background-color: chocolate;
   height: 300px;
   width: 100%;
-}
-.our_features .single_feature {
 }
 
 /*Slider CSS*/
@@ -136,8 +133,8 @@ img {
 .social_icons ul li a {
   text-decoration: none;
 }
-.social_icons ul li a i {
-}
+/* .social_icons ul li a i {
+} */
 
 .main_content_section {
   width: 80%;
